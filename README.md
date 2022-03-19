@@ -4,7 +4,7 @@ A calculator built with Rust
 [View on GitHub][GitHub] ... [View on Repl.it][Replit]
 
 # Running
-If you don't use [Replit], just do the following command:
+If you don't use [Replit](https://replit.com/~) just do the following command:
 ```sh
 cargo run
 ```
